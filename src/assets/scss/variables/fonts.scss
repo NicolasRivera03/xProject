@@ -1,0 +1,33 @@
+@font-face {
+    font-family: Poppins-ExtraLight;
+    font-style: normal;
+    font-weight: 200;
+    src: url("/assets/fonts/Poppins/Poppins-ExtraLight.ttf");
+    unicode-range: U+000-5FF;
+  }
+
+  @font-face {
+    font-family: Poppins-Bold;
+    font-style: normal;
+    src: url("/assets/fonts/Poppins/Poppins-Bold.ttf");
+    unicode-range: U+000-5FF;
+  }
+
+  @font-face {
+    font-family: Poppins-Regular;
+    font-style: normal;
+    src: url("/assets/fonts/Poppins/Poppins-Regular.ttf");
+    unicode-range: U+000-5FF;
+  }
+
+  @font-face {
+    font-family: Poppins-SemiBold;
+    font-style: normal;
+    src: url("/assets/fonts/Poppins/Poppins-SemiBold.ttf");
+    unicode-range: U+000-5FF;
+  }
+
+  $font-family-light: Poppins-ExtraLight, sans-serif;
+  $font-family-bold: Poppins-Bold, sans-serif;
+  $font-family-regular: Poppins-Regular, sans-serif;
+  $font-family-semibold: Poppins-SemiBold, sans-serif;
