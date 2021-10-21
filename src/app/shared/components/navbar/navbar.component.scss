@@ -78,6 +78,7 @@ label.logo{
     color: $white;
     padding: 0 100px;
     line-height: 80px;
+    
 }
 
 nav ul{
@@ -121,6 +122,7 @@ nav #icon{
     label.logo{
         font-size: 32px;
         padding-left: 60px;
+        height: 30px;
     }
 
     nav ul{
@@ -133,6 +135,8 @@ nav #icon{
 }
 
 @media (max-width: 909px){
+    
+
     nav #icon{
         display: block;
     }
@@ -166,3 +170,8 @@ nav #icon{
     }
 }
 
+@media (min-width: 375px){
+    .logo img{
+        height: 30px;
+    }
+}

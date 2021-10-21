@@ -50,7 +50,7 @@
     font-family: $font-family-bold;
     color: white;
     font-size: 20px;
-   text-align: left;
+   text-align: center;
 }
 
 .text-card{
@@ -120,11 +120,14 @@
     border: none;
 }
 
+.text-center{
+    text-align: center;
+}
 
 
 .buttons{
    
-    text-align: left;
+    text-align: center;
     
     
     .default-button{
