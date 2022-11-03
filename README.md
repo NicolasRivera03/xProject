@@ -1,6 +1,5 @@
-# Prueba Tecnica Nivelics Nicolás Rivera Mora
+# xProject Nicolás Rivera Mora
 
-Repositorio para de prueba técnica Nivelics
 
 ## Development server
 
